@@ -1,6 +1,6 @@
 # Brady Meighan
 
-I build practical tools that automate real problems — from LED visualization software to ML-powered dashboards and robotics experiments. Most of my projects start as something I want for myself and end up becoming something worth sharing.
+I build practical tools that automate real problems. From LED visualization software to ML-powered dashboards and robotics experiments. Most of my projects start as something I want for myself and end up becoming something worth sharing.
 
 ## What I Focus On
 - **Automation & Systems**: hardware control, workflow automation, custom integrations  
