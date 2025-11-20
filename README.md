@@ -1,63 +1,44 @@
-# Brady Meighan - Automation & ML Enthusiast
+# Brady Meighan
 
-👋 Hello! I'm Brady, a tech enthusiast with a passion for automation, machine learning, and finding creative solutions to complex problems.
+I build practical tools that automate real problems — from LED visualization software to ML-powered dashboards and robotics experiments. Most of my projects start as something I want for myself and end up becoming something worth sharing.
 
-## About Me
+## What I Focus On
+- **Automation & Systems**: hardware control, workflow automation, custom integrations  
+- **Applied Machine Learning**: model training, data analysis, visualization  
+- **Creative Engineering**: LED walls, computer-vision tools, interactive projects  
 
-I love building things that make life easier through code. Whether it's automating tedious tasks, creating visualization tools, or exploring the possibilities of machine learning, I'm always excited to dive into new technical challenges.
+## Notable Projects
 
-- 🤖 **Passionate about**: Automation, ML/AI, Data Analysis
-- 🌱 **Currently learning**: Advanced ML techniques and expanding my data visualization toolkit
-- 🔭 **Working on**: Enhancing WLED Studio and exploring new LED visualization projects
+### **WLED Studio**
+A full desktop application for streaming media to WLED-powered LED walls.  
+- ~120 stars  
+- Real-time previews and multi-output streaming  
+- Built with Python, OpenCV, and UDP/Serial protocols  
+- Used in both hobby and commercial setups
+
+### **Income Analysis Dashboard**
+A data-science project exploring demographic patterns and income prediction.  
+- Multiple ML models  
+- Interactive Dash front end  
+- Designed for clear, interpretable insights
+
+### **Other Experiments**
+- Robotics for mobile-game automation  
+- Visualization tooling for LED matrices  
+- Custom scripting utilities and ML prototypes  
 
 ## Skills
+- **Languages**: Python, Java, C#, SQL  
+- **Technologies**: React, Node.js, Linux, OpenCV  
+- **Data & ML**: Tableau, Power BI, scikit-learn, model evaluation & deployment  
+- **Hardware**: ESP8266/ESP32, microcontrollers, LED systems
 
-- **Languages**: Python, Java, C#, SQL
-- **Data & ML**: Tableau, PowerBI, Machine Learning Models
-- **Other Tech**: React, Node.js, Linux
+## Current Interests
+- Real-time visualization techniques  
+- Lightweight RL and automation loops  
+- Scaling LED control tools and hardware integrations  
 
-## Favorite Projects
-
-### WLED Studio
-A Python application for streaming media to LED walls that I'm particularly proud of:
-- 119+ GitHub stars and growing
-- Real-time previews and extensive customization options
-- Active community contributions
-- Built with Python, OpenCV, and UDP/Serial Communication
-
-### Income Analysis Dashboard
-A machine learning project combining my interests in data analysis and visualization:
-- Multiple ML models working together
-- Interactive demographic insights
-- Built with Python, Dash, and various ML libraries
-
-## Learning Journey
-
-I'm constantly exploring new technologies and techniques. Current interests:
-- 🎨 Creative visualization techniques
-- 🤖 Advanced automation methods
-- 📊 Machine learning applications
-- 💡 LED technology and control systems
-
-## Connect with Me
-
-- GitHub: [@BradyMeighan](http://github.com/BradyMeighan)
-- LinkedIn: [brady-meighan](http://linkedin.com/in/brady-meighan)
-- Email: brady.meighan999@gmail.com
-
-Feel free to reach out if you want to collaborate on something cool or chat about automation and ML!
-
-<!--
-**BradyMeighan/BradyMeighan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect
+- GitHub: [@BradyMeighan](https://github.com/BradyMeighan)  
+- LinkedIn: [brady-meighan](https://linkedin.com/in/brady-meighan)  
+- Email: **brady.meighan999@gmail.com**
